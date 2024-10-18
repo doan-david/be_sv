@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$" isTestSource="false" packagePrefix="Modules\" />
+      <sourceFolder url="file://$MODULE_DIR$/Admin/" isTestSource="false" packagePrefix="Modules\Admin\" />
+      <sourceFolder url="file://$MODULE_DIR$/Admin/app" isTestSource="false" packagePrefix="Modules\Admin\App\" />
+      <sourceFolder url="file://$MODULE_DIR$/Admin/database/factories" isTestSource="false" packagePrefix="Modules\Admin\Database\Factories\" />
+      <sourceFolder url="file://$MODULE_DIR$/Admin/database/seeders" isTestSource="false" packagePrefix="Modules\Admin\Database\Seeders\" />
+      <sourceFolder url="file://$MODULE_DIR$/Admin/tests" isTestSource="true" packagePrefix="Modules\Admin\Tests\" />
+      <sourceFolder url="file://$MODULE_DIR$/Class/" isTestSource="false" packagePrefix="Modules\Class\" />
+      <sourceFolder url="file://$MODULE_DIR$/Class/app" isTestSource="false" packagePrefix="Modules\Class\App\" />
+      <sourceFolder url="file://$MODULE_DIR$/Class/database/factories" isTestSource="false" packagePrefix="Modules\Class\Database\Factories\" />
+      <sourceFolder url="file://$MODULE_DIR$/Class/database/seeders" isTestSource="false" packagePrefix="Modules\Class\Database\Seeders\" />
+      <sourceFolder url="file://$MODULE_DIR$/Class/tests" isTestSource="true" packagePrefix="Modules\Class\Tests\" />
+      <sourceFolder url="file://$MODULE_DIR$/Student/" isTestSource="false" packagePrefix="Modules\Student\" />
+      <sourceFolder url="file://$MODULE_DIR$/Student/app" isTestSource="false" packagePrefix="Modules\Student\App\" />
+      <sourceFolder url="file://$MODULE_DIR$/Student/database/factories" isTestSource="false" packagePrefix="Modules\Student\Database\Factories\" />
+      <sourceFolder url="file://$MODULE_DIR$/Student/database/seeders" isTestSource="false" packagePrefix="Modules\Student\Database\Seeders\" />
+      <sourceFolder url="file://$MODULE_DIR$/Student/tests" isTestSource="true" packagePrefix="Modules\Student\Tests\" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
